@@ -1,0 +1,24 @@
+Markowitz Portfolio Project
+- Escolher 8 ações entre 4 setores:
+  . Bancos
+  . Seguros
+  . Elétrico
+  . Comunicação
+- Comparar EW x CW x GMV x MSR
+EW = EqualWeighted 
+CW =  CapWeighted 
+GMV = Global Minimum Variance
+MSR = Maximum Sharpe Ratio
+
+- Fazer uma Análise de Fatores usando os modelos de Fatores CAPM e o Fama-French
+
+- Backtest com 4k?
+- Colocar aportes mensais de 300 reais
+- Não mudar os pesos
+
+Referências:
+https://comoinvestir.thecap.com.br/ranking-dividendos-maiores-dividend-yield-setor-b3/
+
+https://github.com/HugoAzv/Investment-Management/blob/main/2.%20Advanced%20Portfolio%20Construction%20and%20Analysis%20with%20Python/Module%201%20Lab%20Session%20-%20Foundations.ipynb
+
+https://github.com/HugoAzv/Investment-Management/blob/main/2.%20Advanced%20Portfolio%20Construction%20and%20Analysis%20with%20Python/Module%202%20Lab%20Session%20-%20Covariance%20Estimation.ipynb
